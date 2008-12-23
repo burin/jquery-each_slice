@@ -3,7 +3,7 @@
  * and GPL (http://www.opensource.org/licenses/gpl-license.php) licenses.
  */
 
-jQuery.fn.each_slice = function(num) {
+jQuery.fn.each_slice = function(num, fn) {
 	for ( var i=0,count=0,slice=[]; i<=this.length; i++ ) {
 		if ( count >= num ) {
 			fn.apply( jQuery( slice ) );
