@@ -1,4 +1,4 @@
-# each_slice
+# each\_slice
 
 jQuery plugin that lets you iterate the given function for each slice of *`n`* elements
 
