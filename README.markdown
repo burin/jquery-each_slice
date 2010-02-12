@@ -16,4 +16,4 @@ The plugin acts much like each except each iteration is a collection of *`n`* el
 
 The expandable plugin is dual licensed *(just like jQuery)* under the [MIT](http://www.opensource.org/licenses/mit-license.php) and [GPL](http://www.opensource.org/licenses/gpl-license.php) licenses.
 
-Copyright (c) 2008 [Burin Asavesna](http://helloburin.com) and [Brandon Aaron](http://brandonaaron.net)
+Copyright (c) 2010 [Burin Asavesna](http://helloburin.com) and [Brandon Aaron](http://brandonaaron.net)
